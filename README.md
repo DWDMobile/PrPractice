@@ -6,4 +6,5 @@ To turn in an assignment:
 * [**Clone**](http://gitref.org/creating/#clone) the forked branch (this downloads a copy of those files to your local machine)
 * Add your code
 * [**Push**](http://gitref.org/remotes/#pus) your code to your forked branch
-* Come back to this branch and create a [**pull request**](https://help.github.com/articles/creating-a-pull-request/), includie a link to your blog post with wireframes in the description
+* Come back to this branch and create a [**pull request**](https://help.github.com/articles/creating-a-pull-request/). You may need to click 'Compare Across Forks' from the new Pull Request page. Select your forked branch as the 'head fork'
+* Include a link to your blog post with wireframes in the description
